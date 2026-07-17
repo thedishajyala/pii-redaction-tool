@@ -2,6 +2,11 @@ from presidio_analyzer import AnalyzerEngine
 
 
 class PresidioDetector:
+    ENTITY_MAP = {
+        "EMAIL_ADDRESS": "EMAIL",
+        "LOCATION": "LOCATION",
+    }
+
     def __init__(self):
         self.analyzer = AnalyzerEngine()
 
@@ -13,8 +18,9 @@ class PresidioDetector:
         
         matches = []
         for result in results:
+            entity_type = self.ENTITY_MAP.get(result.entity_type, result.entity_type)
             matches.append({
-                "type": result.entity_type,
+                "type": entity_type,
                 "value": text[result.start:result.end],
                 "start": result.start,
                 "end": result.end,

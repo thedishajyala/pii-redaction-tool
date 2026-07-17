@@ -17,7 +17,7 @@ def redact_text(text, regex_detector, presidio_detector, replacer, generator):
     unique_matches = []
     seen = set()
     for m in all_matches:
-        identifier = (m["start"], m["end"], m["type"])
+        identifier = (m["start"], m["end"])
         if identifier not in seen:
             seen.add(identifier)
             unique_matches.append(m)

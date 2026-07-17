@@ -1,39 +1,40 @@
 from document_handler import DocumentHandler
 from detector import RegexDetector
+from fake_data import FakeDataGenerator
+from replacer import ReplacementEngine
 
 
 def main():
     handler = DocumentHandler("input/Red Herring Prospectus.docx")
+
     detector = RegexDetector()
+    generator = FakeDataGenerator()
+    replacer = ReplacementEngine()
 
     paragraphs = handler.get_paragraphs()
 
-    print("=" * 50)
-    print("EMAILS FOUND")
-    print("=" * 50)
-
-    total = 0
-
     for paragraph in paragraphs:
-        text = paragraph.text.strip()
+        text = paragraph.text
 
-        if not text:
+        if not text.strip():
             continue
 
         matches = detector.detect(text)
 
-        if matches:
-            print(f"\nParagraph:")
-            print(text)
+        if not matches:
+            continue
 
-            print("Detected:")
+        redacted = replacer.replace(
+            text,
+            matches,
+            generator,
+        )
 
-            for match in matches:
-                print(f"   ✅ {match}")
-                total += 1
+        paragraph.text = redacted
 
-    print("\n" + "=" * 50)
-    print(f"Total entities found: {total}")
+    handler.save("output/redacted_prospectus.docx")
+
+    print("✅ Redacted document saved!")
 
 
 if __name__ == "__main__":

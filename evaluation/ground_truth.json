@@ -1,0 +1,1201 @@
+[
+  {
+    "paragraph_id": 17,
+    "source": "Running text",
+    "text": "Contact Person: Sarthak Malvadkar, Company Secretary and Compliance Officer; Telephone: + 91 20 4505 3237;",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "Sarthak Malvadkar"
+      },
+      {
+        "type": "PHONE",
+        "text": "+ 91 20 4505 3237"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 156,
+    "source": "Running text",
+    "text": "The summary of related party transactions, as per the requirements under Ind AS 24 – ‘Related Party Disclosures’, entered into by us for the three-month period ended June 30, 2025 and Fiscals 2025, 2024 and 2023, as derived from the Restated Financial Statements are as set out in the table below:",
+    "entities": []
+  },
+  {
+    "paragraph_id": 222,
+    "source": "Running text",
+    "text": "Set out below are details of the contribution of our primary raw materials (i.e. copper and aluminium, copper also being our principal raw material) and other raw materials (i.e. insulating, consumables and packaging materials) towards our total cost of raw materials consumed for the period/ Fiscals indicated:",
+    "entities": []
+  },
+  {
+    "paragraph_id": 266,
+    "source": "Running text",
+    "text": "Further, we propose to utilise a portion of our Net Proceeds towards funding the capital expenditure requirements of our Company towards purchasing and setting up of new machinery for expansion at our Supa Facility which will require us to obtain necessary licenses and approvals. For details, see “Objects of the Offer –Funding the capital expenditure requirements of our Company towards: (i) purchasing and setting up of new machinery for expansion at our Supa Facility (“Phase II Expansion at our Supa Facility”); and (ii) purchasing and setting up of new machinery at Unit 2 in Chakan, Pune in Maharashtra” on page 114. We may have to revise our funding requirements and deployment of the Net Proceeds in case we are unable to obtain necessary licenses and approvals or due to other external factors, which may not be within the control of our management.",
+    "entities": [
+      {
+        "type": "ADDRESS",
+        "text": "Chakan"
+      },
+      {
+        "type": "ADDRESS",
+        "text": "Pune"
+      },
+      {
+        "type": "ADDRESS",
+        "text": "Maharashtra"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 333,
+    "source": "Running text",
+    "text": "The Company is expanding by setting up a plant at Plot No. F-223, Supa Parner Industrial Park, Mauje Palve Khurd, Taluka Parner, Dist – Ahmednagar, Maharashtra – 414 301. The proposed plant will be developed in phases: Phase I, named Alpha I, with an installed capacity of 12,000 MT per annum, and Phase II, named Beta I, with a proposed installed capacity of 18,000 MT per annum. Currently, a consent to operate dated September 19, 2025, has been obtained from the Maharashtra Pollution Control Board for Phase I CTO and commercial production of Phase I commenced in September 2025. Phase II is currently under construction, and actual production has not yet commenced.",
+    "entities": [
+      {
+        "type": "ADDRESS",
+        "text": "Plot No. F-223, Supa Parner Industrial Park, Mauje Palve Khurd, Taluka Parner, Dist – Ahmednagar, Maharashtra – 414 301"
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "Maharashtra Pollution Control Board"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 337,
+    "source": "Running text",
+    "text": "As of the date of this Red Herring Prospectus, we primarily manufacture our products at our four manufacturing facilities, one at Taloja (Raigad), Maharashtra, and two in Chakan (Pune), Maharashtra. Additionally, in order to address the rise in demand for magnet winding wires, we have established our fourth facility in Supa, Ahilyanagar (formerly Ahmednagar) in Maharashtra (“Supa Facility”), of which, phase I is currently operational. For details in relation to the land on which our Manufacturing Facilities are located, see, “Our Business – Manufacturing Facilities” on page 229. Further, Supa Facility, phase II of which is under construction, as on the date of this Red Herring Prospectus is located at Supa Ahilyanagar (formerly Ahmednagar), also in Maharashtra. Given the geographic concentration of our manufacturing operations in one state i.e. Maharashtra, our operations are susceptible to disruptions which may be caused by certain local and regional factors, including but not limited to political, economic and weather conditions, natural disasters, demographic factors, and other unforeseen events and circumstances. While there have not been any instances of risks materializing due to our geographical concentration in the three-month period ended June 30, 2025 and the Fiscals 2025, 2024 and 2023, if any such disruptions occurs due to reasons included herein, our operations may be affected leading to significant delays in the manufacturing and sale of our products which could materially and adversely affect our business, financial condition and results of operations.",
+    "entities": [
+      {
+        "type": "ADDRESS",
+        "text": "Taloja"
+      },
+      {
+        "type": "ADDRESS",
+        "text": "Raigad"
+      },
+      {
+        "type": "ADDRESS",
+        "text": "Maharashtra"
+      },
+      {
+        "type": "ADDRESS",
+        "text": "Chakan"
+      },
+      {
+        "type": "ADDRESS",
+        "text": "Pune"
+      },
+      {
+        "type": "ADDRESS",
+        "text": "Supa"
+      },
+      {
+        "type": "ADDRESS",
+        "text": "Ahilyanagar"
+      },
+      {
+        "type": "ADDRESS",
+        "text": "Ahmednagar"
+      },
+      {
+        "type": "ADDRESS",
+        "text": "Supa Ahilyanagar"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 346,
+    "source": "Running text",
+    "text": "We obtain and maintain quality certifications and accreditations from independent certification entities in connection with the products we manufacture. For instance, we were awarded (i) ISO 9001:2015 – accreditation for the certification and approval of the quality management system; (ii) ISO 14001:2015 – accreditation for environment management system; (iii) ISO 45001:2018 – certification for occupational health and safety management; and (iv) IATF 16949:2016 – certification for the certification and approval of the quality management system. If we fail to comply with applicable quality standards or if the relevant accreditation institute or agency declines to certify our products and manufacturing practices, or if we are otherwise unable to obtain such quality accreditations in the future, in a timely manner or at all, our business prospects and financial performance will be adversely affected. While we have not experienced any instances where we failed to obtain quality certifications and accreditations which had an adverse impact on our business, results of operations, financial condition or cash flows, we cannot assure you that such instances will not arise in the future.",
+    "entities": []
+  },
+  {
+    "paragraph_id": 361,
+    "source": "Running text",
+    "text": "We have power and fuel requirements for our manufacturing facilities. In a situation where our costs towards power and fuel were to increase or if there were any disruption in their supply to our manufacturing facilities, it could have an adverse effect on our business, results of operations, and financial condition. Set forth below are details in relation to our power and fuel costs for the period/ Fiscals indicated:",
+    "entities": []
+  },
+  {
+    "paragraph_id": 445,
+    "source": "Running text",
+    "text": "We propose to utilize the Net Proceeds towards (i) Prepayment and/or repayment, in full or in part, of all or a portion of certain outstanding borrowings availed by our Company; (ii) Funding the capital expenditure requirements of our Company towards (b) purchasing and setting up of new machinery for expansion at our Supa Facility; and (b) purchasing and setting up of new machinery at Unit 2 in Chakan, Pune in Maharashtra; (iii) Funding the capital expenditure requirements of our Company towards purchasing and setting up of a rooftop solar power plant for power generation at our Supa Facility; and (iv) general corporate purposes. For further details of the proposed objects of the Offer, see “Objects of the Offer” on page 106. Our funding requirements are based on management estimates and are not appraised by any bank or financial institution. The deployment of the Net Proceeds will be at the discretion of our Board. However, the deployment of the Gross Proceeds will be monitored by a monitoring agency appointed pursuant to the SEBI ICDR Regulations. Further, we cannot determine with any certainty if we would require the Net Proceeds to meet another expenditure or fund any exigencies arising out of the competitive environment, business conditions, economic conditions or other factors beyond our control. In accordance with the Companies Act, 2013 and the SEBI ICDR Regulations, we cannot undertake variation in the utilization of the Net Proceeds as disclosed in this Red Herring Prospectus without obtaining the approval of the Shareholders through a special resolution. In the event of any such circumstances that require us to vary the disclosed utilization of the Net Proceeds, we may not be able to obtain the approval of the Shareholders in a timely manner, or at all. Any delay or inability in obtaining such approval of the Shareholders may adversely affect our business or operations. Further, our Promoters would be required to provide an exit opportunity to the shareholders of our Company who do not agree with our proposal to modify the objects of the Offer, at a price and manner as prescribed by SEBI.",
+    "entities": [
+      {
+        "type": "ADDRESS",
+        "text": "Chakan"
+      },
+      {
+        "type": "ADDRESS",
+        "text": "Pune"
+      },
+      {
+        "type": "ADDRESS",
+        "text": "Maharashtra"
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "SEBI"
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "SEBI"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 467,
+    "source": "Running text",
+    "text": "The following tables set forth the summary financial information derived from the Restated Financial Statements. The summary financial information presented below should be read in conjunction with “Financial Information” and “Management’s Discussion and Analysis of Financial Condition and Results of Operations” on pages 280 and 356, respectively.",
+    "entities": []
+  },
+  {
+    "paragraph_id": 473,
+    "source": "Running text",
+    "text": "Maharashtra, India",
+    "entities": [
+      {
+        "type": "ADDRESS",
+        "text": "Maharashtra"
+      },
+      {
+        "type": "ADDRESS",
+        "text": "India"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 493,
+    "source": "Running text",
+    "text": "E-mail: Sarthak.malvadkar@kshinterantional.com",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "Sarthak.malvadkar@kshinterantional.com"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 502,
+    "source": "Running text",
+    "text": "Telephone: +91 22 40094400 Email: ksh.ipo@nuvama.com Website: www.nuvama.com",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "ksh.ipo@nuvama.com"
+      },
+      {
+        "type": "PHONE",
+        "text": "+91 22 40094400"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 517,
+    "source": "Running text",
+    "text": "Telephone: + 91 22 4009 4400",
+    "entities": [
+      {
+        "type": "PHONE",
+        "text": "+ 91 22 4009 4400"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 518,
+    "source": "Running text",
+    "text": "Email: ksh.ipo@nuvama.com, prakash.boricha@nuvama.com, and sheetal.parab@nuvama.com",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "ksh.ipo@nuvama.com"
+      },
+      {
+        "type": "EMAIL",
+        "text": "prakash.boricha@nuvama.com"
+      },
+      {
+        "type": "EMAIL",
+        "text": "sheetal.parab@nuvama.com"
+      },
+      {
+        "type": "PERSON",
+        "text": "Email"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 523,
+    "source": "Running text",
+    "text": "Telephone: +91 22 6807 7100 Email: ksh@icicisecurities.com Website: www.icicisecurities.com",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "ksh@icicisecurities.com"
+      },
+      {
+        "type": "PHONE",
+        "text": "+91 22 6807 7100"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 524,
+    "source": "Running text",
+    "text": "Investor grievance E-mail: customercare@icicisecurities.com",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "customercare@icicisecurities.com"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 532,
+    "source": "Running text",
+    "text": "Email: ipo@trilegal.com",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "ipo@trilegal.com"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 553,
+    "source": "Running text",
+    "text": "163, 5th Floor, H.T.Parekh Marg Backbay Reclamation Churchgate, Mumbai – 400020 Telephone: 022-68052182 Email: Ipocmg@icicibank.com Website: www.icicibank.com Contact Person: Varun Badai",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "Ipocmg@icicibank.com"
+      },
+      {
+        "type": "ADDRESS",
+        "text": "163, 5th Floor, H.T.Parekh Marg Backbay Reclamation Churchgate, Mumbai – 400020"
+      },
+      {
+        "type": "PERSON",
+        "text": "Varun Badai"
+      },
+      {
+        "type": "PHONE",
+        "text": "022-68052182"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 560,
+    "source": "Running text",
+    "text": "Email: siddharth.jadhav@hdfcbank.com, sachin.gawade@hdfcbank.com eric.bacha@hdfcbank.com, tushar.gavankar@hdfcbank.com, and pravin.teli2@hdfcbank.com Website: www.hdfcbank.com",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "siddharth.jadhav@hdfcbank.com"
+      },
+      {
+        "type": "EMAIL",
+        "text": "sachin.gawade@hdfcbank.com"
+      },
+      {
+        "type": "EMAIL",
+        "text": "eric.bacha@hdfcbank.com"
+      },
+      {
+        "type": "EMAIL",
+        "text": "tushar.gavankar@hdfcbank.com"
+      },
+      {
+        "type": "EMAIL",
+        "text": "pravin.teli2@hdfcbank.com"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 567,
+    "source": "Running text",
+    "text": "163, 5th Floor, H.T.Parekh Marg Backbay Reclamation Churchgate, Mumbai – 400020 Telephone: 022-68052182 Email: Ipocmg@icicibank.com Website: www.icicibank.com Contact Person: Varun Badai",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "Ipocmg@icicibank.com"
+      },
+      {
+        "type": "ADDRESS",
+        "text": "163, 5th Floor, H.T.Parekh Marg Backbay Reclamation Churchgate, Mumbai – 400020"
+      },
+      {
+        "type": "PERSON",
+        "text": "Varun Badai"
+      },
+      {
+        "type": "PHONE",
+        "text": "022-68052182"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 573,
+    "source": "Running text",
+    "text": "Telephone: +91 22 30752929, +91 22 30752928 and +91 22 30752914",
+    "entities": [
+      {
+        "type": "PHONE",
+        "text": "+91 22 30752929"
+      },
+      {
+        "type": "PHONE",
+        "text": "+91 22 30752928"
+      },
+      {
+        "type": "PHONE",
+        "text": "+91 22 30752914"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 574,
+    "source": "Running text",
+    "text": "Email: siddharth.jadhav@hdfcbank.com, sachin.gawade@hdfcbank.com eric.bacha@hdfcbank.com, tushar.gavankar@hdfcbank.com, and pravin.teli2@hdfcbank.com Website: www.hdfcbank.com",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "siddharth.jadhav@hdfcbank.com"
+      },
+      {
+        "type": "EMAIL",
+        "text": "sachin.gawade@hdfcbank.com"
+      },
+      {
+        "type": "EMAIL",
+        "text": "eric.bacha@hdfcbank.com"
+      },
+      {
+        "type": "EMAIL",
+        "text": "tushar.gavankar@hdfcbank.com"
+      },
+      {
+        "type": "EMAIL",
+        "text": "pravin.teli2@hdfcbank.com"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 587,
+    "source": "Running text",
+    "text": "The list of the RTAs eligible to accept ASBA Forms at the Designated RTA Locations, including details such as address, telephone number and e-mail address, is provided on the websites of the Stock Exchanges at www.bseindia.com/Static/Markets/PublicIssues/RtaDp.aspx?\tand www.nseindia.com/products/content/equities/ipos/asba_procedures.htm, respectively, as updated from time to time.",
+    "entities": []
+  },
+  {
+    "paragraph_id": 607,
+    "source": "Running text",
+    "text": "Except as stated below, there has been no change in our statutory auditors in the three years preceding the date of this Red Herring Prospectus:",
+    "entities": []
+  },
+  {
+    "paragraph_id": 612,
+    "source": "Running text",
+    "text": "Telephone: +91 20 6606 4494",
+    "entities": [
+      {
+        "type": "PHONE",
+        "text": "+91 20 6606 4494"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 615,
+    "source": "Running text",
+    "text": "Email: hitesh.ramani@citi.com",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "hitesh.ramani@citi.com"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 624,
+    "source": "Running text",
+    "text": "Telephone: +91-20-26234000 Contact Person: Sharmila Joshi Website: www.indusind.com/ Email: sharmila.joshi@indusind.com",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "sharmila.joshi@indusind.com"
+      },
+      {
+        "type": "PHONE",
+        "text": "+91-20-26234000"
+      },
+      {
+        "type": "PERSON",
+        "text": "Sharmila Joshi"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 633,
+    "source": "Running text",
+    "text": "Telephone: +91 20 6769 4648 Contact Person: Manisha Shukla Website: www.hdfcbank.com",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "Manisha Shukla"
+      },
+      {
+        "type": "PHONE",
+        "text": "+91 20 6769 4648"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 639,
+    "source": "Running text",
+    "text": "Telephone: +91 20 2561 8211 Contact Person: Tushar Wakhele Website: www.sbi.co.in",
+    "entities": [
+      {
+        "type": "PHONE",
+        "text": "+91 20 2561 8211"
+      },
+      {
+        "type": "PERSON",
+        "text": "Tushar Wakhele"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 715,
+    "source": "Table Cell",
+    "text": "OUR PROMOTERS: KUSHAL SUBBAYYA HEGDE, PUSHPA KUSHAL HEGDE, RAJESH KUSHAL HEGDE, ROHIT KUSHAL HEGDE, RAKHI GIRIJA SHETTY, DHAULAGIRI FAMILY TRUST, EVEREST FAMILY TRUST, MAKALU FAMILY TRUST, BROAD FAMILY TRUST, ANNAPURNA FAMILY TRUST, KANCHENJUNGA FAMILY TRUST AND",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "KUSHAL SUBBAYYA HEGDE"
+      },
+      {
+        "type": "PERSON",
+        "text": "PUSHPA KUSHAL HEGDE"
+      },
+      {
+        "type": "PERSON",
+        "text": "RAJESH KUSHAL HEGDE"
+      },
+      {
+        "type": "PERSON",
+        "text": "ROHIT KUSHAL HEGDE"
+      },
+      {
+        "type": "PERSON",
+        "text": "RAKHI GIRIJA SHETTY"
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "DHAULAGIRI FAMILY TRUST"
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "EVEREST FAMILY TRUST"
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "MAKALU FAMILY TRUST"
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "BROAD FAMILY TRUST"
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "ANNAPURNA FAMILY TRUST"
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "KANCHENJUNGA FAMILY TRUST"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 881,
+    "source": "Table Cell",
+    "text": "LISTING",
+    "entities": []
+  },
+  {
+    "paragraph_id": 923,
+    "source": "Table Cell",
+    "text": "Email: ksh.ipo@nuvama.com",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "ksh.ipo@nuvama.com"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 933,
+    "source": "Table Cell",
+    "text": "Email: ksh@icicisecurities.com",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "ksh@icicisecurities.com"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 957,
+    "source": "Table Cell",
+    "text": "Shanti Gopalkrishnan",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "Shanti Gopalkrishnan"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 959,
+    "source": "Table Cell",
+    "text": "Telephone: +91 81081 14949",
+    "entities": [
+      {
+        "type": "PHONE",
+        "text": "+91 81081 14949"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 961,
+    "source": "Table Cell",
+    "text": "Telephone: +91 81081 14949",
+    "entities": [
+      {
+        "type": "PHONE",
+        "text": "+91 81081 14949"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 962,
+    "source": "Table Cell",
+    "text": "E-mail: kshinternational.ipo@in.mpms.mufg.com",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "kshinternational.ipo@in.mpms.mufg.com"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 963,
+    "source": "Table Cell",
+    "text": "Telephone: +91 81081 14949",
+    "entities": [
+      {
+        "type": "PHONE",
+        "text": "+91 81081 14949"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 966,
+    "source": "Table Cell",
+    "text": "E-mail: kshinternational.ipo@in.mpms.mufg.com",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "kshinternational.ipo@in.mpms.mufg.com"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 986,
+    "source": "Table Cell",
+    "text": "ON",
+    "entities": []
+  },
+  {
+    "paragraph_id": 995,
+    "source": "Table Cell",
+    "text": "OUR PROMOTERS: KUSHAL SUBBAYYA HEGDE, PUSHPA KUSHAL HEGDE, RAJESH KUSHAL HEGDE, ROHIT KUSHAL HEGDE, RAKHI GIRIJA SHETTY, DHAULAGIRI FAMILY TRUST, EVEREST",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "KUSHAL SUBBAYYA HEGDE"
+      },
+      {
+        "type": "PERSON",
+        "text": "PUSHPA KUSHAL HEGDE"
+      },
+      {
+        "type": "PERSON",
+        "text": "RAJESH KUSHAL HEGDE"
+      },
+      {
+        "type": "PERSON",
+        "text": "ROHIT KUSHAL HEGDE"
+      },
+      {
+        "type": "PERSON",
+        "text": "RAKHI GIRIJA SHETTY"
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "DHAULAGIRI FAMILY TRUST"
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "EVEREST"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 1005,
+    "source": "Table Cell",
+    "text": "OUR PROMOTERS: KUSHAL SUBBAYYA HEGDE, PUSHPA KUSHAL HEGDE, RAJESH KUSHAL HEGDE, ROHIT KUSHAL HEGDE, RAKHI GIRIJA SHETTY, DHAULAGIRI FAMILY TRUST, EVEREST",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "KUSHAL SUBBAYYA HEGDE"
+      },
+      {
+        "type": "PERSON",
+        "text": "PUSHPA KUSHAL HEGDE"
+      },
+      {
+        "type": "PERSON",
+        "text": "RAJESH KUSHAL HEGDE"
+      },
+      {
+        "type": "PERSON",
+        "text": "ROHIT KUSHAL HEGDE"
+      },
+      {
+        "type": "PERSON",
+        "text": "RAKHI GIRIJA SHETTY"
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "DHAULAGIRI FAMILY TRUST"
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "EVEREST"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 1007,
+    "source": "Table Cell",
+    "text": "OUR PROMOTERS: KUSHAL SUBBAYYA HEGDE, PUSHPA KUSHAL HEGDE, RAJESH KUSHAL HEGDE, ROHIT KUSHAL HEGDE, RAKHI GIRIJA SHETTY, DHAULAGIRI FAMILY TRUST, EVEREST",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "KUSHAL SUBBAYYA HEGDE"
+      },
+      {
+        "type": "PERSON",
+        "text": "PUSHPA KUSHAL HEGDE"
+      },
+      {
+        "type": "PERSON",
+        "text": "RAJESH KUSHAL HEGDE"
+      },
+      {
+        "type": "PERSON",
+        "text": "ROHIT KUSHAL HEGDE"
+      },
+      {
+        "type": "PERSON",
+        "text": "RAKHI GIRIJA SHETTY"
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "DHAULAGIRI FAMILY TRUST"
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "EVEREST"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 1031,
+    "source": "Table Cell",
+    "text": "THE FACE VALUE OF THE EQUITY SHARES IS ₹5 EACH. THE OFFER PRICE IS [●] TIMES THE FACE VALUE OF THE EQUITY SHARES. THE PRICE BAND, AND MINIMUM BID LOT WILL BE DECIDED BY OUR COMPANY, IN CONSULTATION WITH THE BOOK RUNNING LEAD MANAGERS, AND WILL BE ADVERTISED IN ALL EDITIONS OF FINANCIAL EXPRESS (A WIDELY CIRCULATED ENGLISH NATIONAL DAILY NEWSPAPER), ALL EDITIONS OF JANSATTA (A WIDELY CIRCULATED HINDI NATIONAL DAILY NEWSPAPER) AND PUNE EDITION OF LOKSATTA (A WIDELY CIRCULATED MARATHI DAILY NEWSPAPER, MARATHI BEING THE REGIONAL LANGUAGE OF MAHARASHTRA WHERE OUR REGISTERED OFFICE IS LOCATED), AT LEAST TWO WORKING DAYS PRIOR TO THE BID/OFFER OPENING DATE AND SHALL BE MADE AVAILABLE TO THE STOCK EXCHANGES FOR UPLOADING ON THEIR RESPECTIVE WEBSITES IN ACCORDANCE WITH SECURITIES AND",
+    "entities": []
+  },
+  {
+    "paragraph_id": 1093,
+    "source": "Table Cell",
+    "text": "This being the first public offer of Equity Shares of our Company, there has been no formal market for the Equity Shares. The face value of the Equity Shares is ₹5 each. The Offer Price, Floor Price or Cap Price (as determined by our Company, in consultation with the Book Running Lead Managers, in accordance with the SEBI ICDR Regulations), and on the basis of the assessment of market demand for the Equity Shares by way of the Book Building Process, as stated under “Basis for the Offer Price” on page 124, should not be considered to be indicative of the market price of the Equity Shares after the Equity Shares are listed. No assurance can be given regarding an active and/or sustained",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "Cap Price"
+      },
+      {
+        "type": "ADDRESS",
+        "text": "the Book Building Process"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 1106,
+    "source": "Table Cell",
+    "text": "Investments in equity and equity-related securities involve a degree of risk and Bidders should not invest any funds in the Offer unless they can afford to take the risk of losing their entire investment. Bidders are advised to read the risk factors carefully before taking an investment decision in the Offer. For taking an investment decision, Bidders must rely on their own examination of our Company and the Offer, including the risks involved. The Equity Shares in the Offer have not been recommended or approved by SEBI, nor does SEBI guarantee the accuracy or adequacy of the contents of this Red Herring Prospectus. Specific attention of the Bidders is invited to “Risk Factors” on page 28.",
+    "entities": []
+  },
+  {
+    "paragraph_id": 1149,
+    "source": "Table Cell",
+    "text": "The Equity Shares, offered through this Red Herring Prospectus, are proposed to be listed on the Stock Exchanges. Our Company has received in-principle approvals from BSE and NSE for listing of the Equity Shares pursuant to their letters each dated August 4, 2025, respectively. For the purposes of the Offer, the Designated Stock Exchange shall be BSE. A copy of this Red Herring Prospectus has been filed with the RoC and a copy of the Prospectus shall be filed with the RoC in accordance with Sections 26(4) and 32 of the Companies Act, 2013. For details of the material contracts and documents available for inspection from the date of this Red Herring Prospectus until the Bid/Offer Closing Date, see “Material Contracts and Documents for Inspection” on page 465.",
+    "entities": [
+      {
+        "type": "ADDRESS",
+        "text": "RoC"
+      },
+      {
+        "type": "ADDRESS",
+        "text": "RoC"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 1163,
+    "source": "Table Cell",
+    "text": "Tel: +91 22 40094400",
+    "entities": [
+      {
+        "type": "PHONE",
+        "text": "+91 22 40094400"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 1164,
+    "source": "Table Cell",
+    "text": "E-mail: ksh.ipo@nuvama.com",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "ksh.ipo@nuvama.com"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 1174,
+    "source": "Table Cell",
+    "text": "Investor grievance email: customerservice.mb@nuvama.com",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "customerservice.mb@nuvama.com"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 1179,
+    "source": "Table Cell",
+    "text": "Tel: +91 22 6807 7100",
+    "entities": [
+      {
+        "type": "PHONE",
+        "text": "+91 22 6807 7100"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 1187,
+    "source": "Table Cell",
+    "text": "Tel: +91 22 6807 7100",
+    "entities": [
+      {
+        "type": "PHONE",
+        "text": "+91 22 6807 7100"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 1188,
+    "source": "Table Cell",
+    "text": "E-mail: ksh@icicisecurities.com",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "ksh@icicisecurities.com"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 1191,
+    "source": "Table Cell",
+    "text": "Contact Person: Kishan Rastogi/Abhijit Diwan",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "Kishan Rastogi"
+      },
+      {
+        "type": "PERSON",
+        "text": "Abhijit Diwan"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 1196,
+    "source": "Table Cell",
+    "text": "E-mail: ksh@icicisecurities.com",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "ksh@icicisecurities.com"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 1204,
+    "source": "Table Cell",
+    "text": "E-mail: ksh@icicisecurities.com",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "ksh@icicisecurities.com"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 1206,
+    "source": "Table Cell",
+    "text": "Investor grievance email: customercare@icicisecurities.com",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "customercare@icicisecurities.com"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 1212,
+    "source": "Table Cell",
+    "text": "Tel: +91 81081 14949",
+    "entities": [
+      {
+        "type": "PHONE",
+        "text": "+91 81081 14949"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 1220,
+    "source": "Table Cell",
+    "text": "C-101, Embassy 247, 1st Floor, L B S Marg, Vikhroli (West), Mumbai 400083, (Maharashtra), India",
+    "entities": [
+      {
+        "type": "ADDRESS",
+        "text": "C-101, Embassy 247, 1st Floor, L B S Marg, Vikhroli (West), Mumbai 400083, (Maharashtra), India"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 1224,
+    "source": "Table Cell",
+    "text": "Investor grievance e-mail: kshinternational.ipo@in.mpms.mufg.com",
+    "entities": [
+      {
+        "type": "EMAIL",
+        "text": "kshinternational.ipo@in.mpms.mufg.com"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 1266,
+    "source": "Table Cell",
+    "text": "Report titled “Industry Research Report on Magnet Winding Wires Market in India” dated November 26, 2025, prepared and issued by CARE Analytics and Advisory Private Limited which has been commissioned by and paid for by our Company pursuant to an engagement letter dated December 2, 2024 entered into with CARE Analytics and Advisory Private Limited, exclusively for the purposes of the Offer. The report will be available on the website of our Company at",
+    "entities": [
+      {
+        "type": "ADDRESS",
+        "text": "India"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 1335,
+    "source": "Table Cell",
+    "text": "Rajesh Branch",
+    "entities": []
+  },
+  {
+    "paragraph_id": 1399,
+    "source": "Table Cell",
+    "text": "The Anchor Investor Offer Price will be decided by our Company in consultation with the BRLMs",
+    "entities": []
+  },
+  {
+    "paragraph_id": 1462,
+    "source": "Table Cell",
+    "text": "Cash Escrow and Sponsor Banks Agreement",
+    "entities": []
+  },
+  {
+    "paragraph_id": 1509,
+    "source": "Table Cell",
+    "text": "Bidder whose name shall be mentioned in the Bid cum Application Form or the Revision Form and in case of joint Bids, whose name shall also appear as the first holder of the beneficiary account held in joint names",
+    "entities": []
+  },
+  {
+    "paragraph_id": 1561,
+    "source": "Table Cell",
+    "text": "The offer for sale component of the Offer of up to [●] Equity Shares of face value of ₹5 each aggregating up to ₹2,900.00 million, comprising of an offer for sale of up to [●] Equity Shares of face value of ₹5 each by Kushal Subbayya Hegde aggregating up to ₹1,528.00 million, up to [●] Equity Shares of face value of ₹5 each by Pushpa Kushal Hegde aggregating up to ₹422.00 million, up to [●] Equity Shares of face value of ₹5 each by Rajesh Kushal Hegde aggregating up to ₹475.00 million and up to [●] Equity Shares of face value of ₹5 each by Rohit Kushal Hegde",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "Pushpa Kushal Hegde"
+      },
+      {
+        "type": "PERSON",
+        "text": "Rajesh Kushal Hegde"
+      },
+      {
+        "type": "PERSON",
+        "text": "Rohit Kushal Hegde"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 1656,
+    "source": "Table Cell",
+    "text": "Unified Payments Interface, which is an instant payment mechanism, developed by NPCI",
+    "entities": [
+      {
+        "type": "ORGANIZATION",
+        "text": "NPCI"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 1706,
+    "source": "Table Cell",
+    "text": "Companies Act, 2013/ Companies Act",
+    "entities": []
+  },
+  {
+    "paragraph_id": 1864,
+    "source": "Table Cell",
+    "text": "Generally Accepted Accounting Principles in the United States of America.",
+    "entities": []
+  },
+  {
+    "paragraph_id": 1908,
+    "source": "Table Cell",
+    "text": "Capacity Utilization Factor",
+    "entities": []
+  },
+  {
+    "paragraph_id": 1942,
+    "source": "Table Cell",
+    "text": "Gross National Disposable Income",
+    "entities": []
+  },
+  {
+    "paragraph_id": 2071,
+    "source": "Table Cell",
+    "text": "of long-term borrowings and short-term borrowings less cash and cash equivalents and other bank balances. Total equity is calculated as share capital plus reserves and surplus",
+    "entities": []
+  },
+  {
+    "paragraph_id": 2123,
+    "source": "Table Cell",
+    "text": "7.91",
+    "entities": []
+  },
+  {
+    "paragraph_id": 2254,
+    "source": "Table Cell",
+    "text": "0.00**%",
+    "entities": []
+  },
+  {
+    "paragraph_id": 2278,
+    "source": "Table Cell",
+    "text": "Name",
+    "entities": []
+  },
+  {
+    "paragraph_id": 2323,
+    "source": "Table Cell",
+    "text": "Number of Equity Shares of face value of ₹5",
+    "entities": []
+  },
+  {
+    "paragraph_id": 2348,
+    "source": "Table Cell",
+    "text": "Rakhi Girija Shetty",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "Rakhi Girija Shetty"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 2708,
+    "source": "Table Cell",
+    "text": "Amount as at June 30, 2025",
+    "entities": []
+  },
+  {
+    "paragraph_id": 2726,
+    "source": "Table Cell",
+    "text": "Promoters are partners in\tthe",
+    "entities": []
+  },
+  {
+    "paragraph_id": 2750,
+    "source": "Table Cell",
+    "text": "Distriparks",
+    "entities": []
+  },
+  {
+    "paragraph_id": 3027,
+    "source": "Table Cell",
+    "text": "Katyayani Balasubramanian ^&",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "Katyayani Balasubramanian"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 3180,
+    "source": "Table Cell",
+    "text": "Customer",
+    "entities": []
+  },
+  {
+    "paragraph_id": 3362,
+    "source": "Table Cell",
+    "text": "94.27%",
+    "entities": []
+  },
+  {
+    "paragraph_id": 3434,
+    "source": "Table Cell",
+    "text": "in million)",
+    "entities": []
+  },
+  {
+    "paragraph_id": 3441,
+    "source": "Table Cell",
+    "text": "Particulars",
+    "entities": []
+  },
+  {
+    "paragraph_id": 3486,
+    "source": "Table Cell",
+    "text": "17,418.18",
+    "entities": []
+  },
+  {
+    "paragraph_id": 3568,
+    "source": "Table Cell",
+    "text": "7,652.26",
+    "entities": []
+  },
+  {
+    "paragraph_id": 3611,
+    "source": "Table Cell",
+    "text": "Products",
+    "entities": []
+  },
+  {
+    "paragraph_id": 3774,
+    "source": "Table Cell",
+    "text": "Form 7B for transfer of shares to Rohit Hegde from Karunakar Hegde HUF.",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "Rohit Hegde"
+      },
+      {
+        "type": "ORGANIZATION",
+        "text": "Karunakar Hegde HUF"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 3865,
+    "source": "Table Cell",
+    "text": "1",
+    "entities": []
+  },
+  {
+    "paragraph_id": 3893,
+    "source": "Table Cell",
+    "text": "Key Managerial Personnel (“KMPs”) (excluding our Executive Directors) (1)",
+    "entities": []
+  },
+  {
+    "paragraph_id": 3948,
+    "source": "Table Cell",
+    "text": "Actual production in MT",
+    "entities": []
+  },
+  {
+    "paragraph_id": 4196,
+    "source": "Table Cell",
+    "text": "Fiscal 2023",
+    "entities": []
+  },
+  {
+    "paragraph_id": 4231,
+    "source": "Table Cell",
+    "text": "30.56",
+    "entities": []
+  },
+  {
+    "paragraph_id": 4458,
+    "source": "Table Cell",
+    "text": "Not less than [●] Equity Shares of face value of ₹5 each aggregating up to ₹[●] million",
+    "entities": []
+  },
+  {
+    "paragraph_id": 4514,
+    "source": "Table Cell",
+    "text": "Rakhi Girija Shetty",
+    "entities": [
+      {
+        "type": "PERSON",
+        "text": "Rakhi Girija Shetty"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 4518,
+    "source": "Table Cell",
+    "text": "3 Prabhat Road, opposite PYC basketball court, Erandawane, Deccan Gymkhana, Pune – 411 004 Maharashtra, India",
+    "entities": [
+      {
+        "type": "ADDRESS",
+        "text": "3 Prabhat Road, opposite PYC basketball court, Erandawane, Deccan Gymkhana, Pune – 411 004 Maharashtra, India"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 4612,
+    "source": "Table Cell",
+    "text": "Opposite Harshal Hall, above HDFC Limited Karve Road, Pune – 411 038",
+    "entities": [
+      {
+        "type": "ADDRESS",
+        "text": "Opposite Harshal Hall, above HDFC Limited Karve Road, Pune – 411 038"
+      }
+    ]
+  },
+  {
+    "paragraph_id": 4648,
+    "source": "Table Cell",
+    "text": "B)",
+    "entities": []
+  }
+]

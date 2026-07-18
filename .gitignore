@@ -16,3 +16,6 @@ output/
 
 # Environment variables
 .env
+
+# Exclude outputs
+output/*.docx

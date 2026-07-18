@@ -1,0 +1,5 @@
+python-docx==1.2.0
+Faker==40.31.0
+presidio-analyzer==2.2.363
+spacy==3.8.13
+streamlit==1.59.2

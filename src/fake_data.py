@@ -21,7 +21,7 @@ class FakeDataGenerator:
         elif entity_type == "PERSON":
             fake_value = self.fake.name()
             
-        elif entity_type == "LOCATION":
+        elif entity_type in ["ADDRESS", "LOCATION"]:
             fake_value = self.fake.address().replace("\n", ", ")
             
         elif entity_type in ["ORGANIZATION", "ORG"]:

@@ -4,7 +4,8 @@ from presidio_analyzer import AnalyzerEngine
 class PresidioDetector:
     ENTITY_MAP = {
         "EMAIL_ADDRESS": "EMAIL",
-        "LOCATION": "LOCATION",
+        "PHONE_NUMBER": "PHONE",
+        "LOCATION": "ADDRESS",
     }
 
     def __init__(self):

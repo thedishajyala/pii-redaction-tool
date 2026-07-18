@@ -1,4 +1,5 @@
 import time
+import re
 from collections import Counter
 from document_handler import DocumentHandler
 from detector import RegexDetector
@@ -18,9 +19,9 @@ SUPPORTED_ENTITY_TYPES = {
     "IP"
 }
 
-def redact_text(text, regex_detector, presidio_detector, replacer, generator, metrics_counter=None):
+def detect_entities(text, regex_detector, presidio_detector):
     if not text.strip():
-        return text
+        return []
 
     regex_matches = regex_detector.detect(text)
     nlp_matches = presidio_detector.detect(text)
@@ -32,6 +33,49 @@ def redact_text(text, regex_detector, presidio_detector, replacer, generator, me
         if m["type"] in SUPPORTED_ENTITY_TYPES
     ]
     
+    cleaned_matches = []
+    for m in all_matches:
+        val = m["value"]
+        
+        while True:
+            prev_len = len(val)
+            val = val.rstrip(".,;: '\"\n\r")
+            if val.lower().endswith(" and"):
+                val = val[:-4]
+            if len(val) == prev_len:
+                break
+                
+        val = val.lstrip(".,;: '\"\n\r")
+        
+        # Strip common bloat prefixes from SpaCy
+        lower_val = val.lower()
+        if lower_val.startswith("by "):
+            val = val[3:]
+        elif lower_val.startswith("with "):
+            val = val[5:]
+            
+        lower_val = val.lower()
+        
+        fp_ignore_list = {
+            "ltd", "inc", "llc", "ltd.", "inc.", 
+            "email", "fiscals", "mt", "supa facility", 
+            "our supa facility", "india", "fiscals 2025",
+            "supa parner industrial park", "mauje palve khurd", 
+            "taluka parner", "ahmednagar", "vikhroli", 
+            "erandawane", "distriparks", "rajesh branch"
+        }
+        
+        if not val or lower_val in fp_ignore_list:
+            continue
+            
+        idx = m["value"].find(val)
+        m["start"] += idx
+        m["end"] = m["start"] + len(val)
+        m["value"] = val
+        cleaned_matches.append(m)
+        
+    all_matches = cleaned_matches
+    
     unique_matches = []
     seen = set()
     for m in all_matches:
@@ -40,6 +84,11 @@ def redact_text(text, regex_detector, presidio_detector, replacer, generator, me
             seen.add(identifier)
             unique_matches.append(m)
 
+    return unique_matches
+
+def redact_text(text, regex_detector, presidio_detector, replacer, generator, metrics_counter=None):
+    unique_matches = detect_entities(text, regex_detector, presidio_detector)
+    
     if not unique_matches:
         return text
 

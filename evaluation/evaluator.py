@@ -23,6 +23,8 @@ SUPPORTED_ENTITY_TYPES = {
     "IP"
 }
 
+from main import detect_entities
+
 class Evaluator:
     def __init__(self, ground_truth_path):
         with open(ground_truth_path, 'r', encoding='utf-8') as f:
@@ -39,27 +41,17 @@ class Evaluator:
             source = item.get("source", "Unknown")
             gt_entities = item["entities"]
             
-            # Predict
-            r_matches = self.regex_detector.detect(text)
-            p_matches = self.presidio_detector.detect(text)
-            
-            # Filter unsupported
-            combined = [m for m in (r_matches + p_matches) if m["type"] in SUPPORTED_ENTITY_TYPES]
+            combined = detect_entities(text, self.regex_detector, self.presidio_detector)
             
             # Format predictions for matching
             pred_entities = []
-            seen = set()
             for m in combined:
-                identifier = (m["start"], m["end"])
-                if identifier not in seen:
-                    seen.add(identifier)
-                    
-                    # Normalize ORG -> ORGANIZATION for metrics
-                    ent_type = "ORGANIZATION" if m["type"] == "ORG" else m["type"]
-                    pred_entities.append({
-                        "type": ent_type,
-                        "text": m["value"]
-                    })
+                # Normalize ORG -> ORGANIZATION for metrics
+                ent_type = "ORGANIZATION" if m["type"] == "ORG" else m["type"]
+                pred_entities.append({
+                    "type": ent_type,
+                    "text": m["value"]
+                })
                     
             # Match
             matches = match_entities(gt_entities, pred_entities)

@@ -19,7 +19,8 @@ footer {visibility: hidden;}
 """, unsafe_allow_html=True)
 
 st.title("Hybrid PII Redaction Tool for DOCX")
-st.markdown("Detects and redacts PII using Regex + Microsoft Presidio")
+st.markdown("Automatically detects and replaces Personally Identifiable Information (PII) in DOCX documents using a hybrid Regex + Microsoft Presidio pipeline.")
+st.markdown("**Supports:** Email • Phone • Person • Organization • Address • Credit Card • SSN • IP")
 st.divider()
 
 uploaded_file = st.file_uploader("Upload Document", type=["docx"], label_visibility="collapsed")

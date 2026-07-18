@@ -7,6 +7,9 @@
 
 A modular pipeline for detecting and replacing Personally Identifiable Information (PII) with consistent synthetic values using a hybrid approach combining regex-based pattern matching and Microsoft Presidio.
 
+## Live Demo
+Check out the deployed app here: **[https://disha-pii-redaction-tool.streamlit.app](https://disha-pii-redaction-tool.streamlit.app)**
+
 ---
 
 ## Architecture

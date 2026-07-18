@@ -19,3 +19,4 @@ output/
 
 # Exclude outputs
 output/*.docx
+docs/interview_prep.md
